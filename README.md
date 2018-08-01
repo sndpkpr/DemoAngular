@@ -4,39 +4,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Feature list
 
- * Admin Login & Logout
- * User Listing
- * User Searching
- * User Details
- * User Addition
- * User Update
- * User Deletion
+ Login & Logout, Listing, Searching, Detailing, Addition, Updating, Deletion
 
 
 ## Angular 4 features used
 
- * Modules
- * Routes
- * Services
- * Components
- * Browser Animations
- * Forms Module
- * Reactive Forms
- * Directives
- * Pipes
- * Filters
+ Modules, Routes, Services, Components, Browser Animations, Forms Module, Reactive Forms, Directives, Pipes, Filters
  
 
 ## Libraries Used
 
- * W3CSS front end design
- * Font Awesome Icons
- * Toster for success/error messages
+ W3CSS front end design, Font Awesome Icons, Toster for success/error messages
 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve --poll 200 --port 4401` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -57,3 +40,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Or drop me a message.
+
+## For development
+I have used following 
+start script - "start": "ng serve --poll 200 --port 4401",
